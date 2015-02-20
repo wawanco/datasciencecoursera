@@ -1,0 +1,143 @@
+CODE BOOK
+
+activity            1        Activity labels
+        WALKING
+        WALKING_UPSTAIRS
+        WALKING_DOWNSTAIRS
+        SITTING
+        STANDING
+        LAYING
+
+subject            2       Unique identifier of observed subjects 
+
+tBodyAcc.mean.X    3       Mean of estimated body acceleration on X
+
+tBodyAcc.mean.Y    4       Mean of estimated body acceleration on Y
+
+tBodyAcc.mean.Z    5       Mean of estimated body acceleration on Z
+
+tBodyAcc.std.X     6       Standard deviation of estimated body acceleration on X
+
+tBodyAcc.std.Y     7       Standard deviation of estimated body acceleration on Y
+ 
+tBodyAcc.std.Z     8       Standard deviation of estimated body acceleration on Z
+
+tGravityAcc.mean.X 9       Mean of gravity acceleration on X
+
+tGravityAcc.mean.Y 10      Mean of gravity acceleration on Y
+
+tGravityAcc.mean.Z 11      Mean of gravity acceleration on Z
+
+tGravityAcc.std.X  12      Standard deviation of gravity acceleration on X
+
+tGravityAcc.std.Y  13      Standard deviation of gravity acceleration on Y
+
+tGravityAcc.std.Z  14      Standard deviation of gravity acceleration on Z
+
+tBodyAccJerk.mean.X  15    Mean of jerk body acceleration on X
+
+tBodyAccJerk.mean.Y  16    Mean of jerk body acceleration on Y
+
+tBodyAccJerk.mean.Z  17    Mean of jerk body acceleration on Z
+
+tBodyAccJerk.std.X   18    Standard deviation of jerk body acceleration on X
+
+tBodyAccJerk.std.Y   19    Standard deviation of jerk body acceleration on Y
+
+tBodyAccJerk.std.Z   20    Standard deviation of jerk body acceleration on Z
+
+tBodyGyro.mean.X     21    Mean of jerk body acceleration on X
+
+tBodyGyro.mean.Y     22    Mean of jerk body acceleration on Y
+
+tBodyGyro.mean.Z     23    Mean of jerk body acceleration on Z
+
+tBodyGyro.std.X      24    Standard deviation of gyro body acceleration on X
+
+tBodyGyro.std.Y      25    Standard deviation of gyro body acceleration on Y
+
+tBodyGyro.std.Z      26    Standard deviation of gyro body acceleration on Z
+
+tBodyGyroJerk.mean.X     27    Mean of gyro body jerk on X
+
+tBodyGyroJerk.mean.Y     28    Mean of gyro body jerk on X
+
+tBodyGyroJerk.mean.Z     29    Mean of gyro body jerk on Y
+
+tBodyGyroJerk.std.X      30    Standard deviation gyro body jerk on X
+
+tBodyGyroJerk.std.Y      31    Standard deviation gyro body jerk on Y
+
+tBodyGyroJerk.std.Z      32    Standard deviation gyro body jerk on Z
+
+tBodyAccMag.mean         33    Mean of body acceleration magnitude
+
+tBodyAccMag.std          34    Standard deviation of body acceleration magnitude
+
+tGravityAccMag.mean      35    Mean of gravity acceleration magnitude
+
+tGravityAccMag.std       36    Standard deviation of gravity acceleration magnitude
+
+tBodyAccJerkMag.mean     37    Mean of gravity acceleration magnitude
+
+tBodyAccJerkMag.std      38    Standard deviation  of gravity acceleration magnitude
+
+tBodyGyroMag.mean        39    Mean of gyro magnitude
+
+tBodyGyroMag.std         40    Standard deviation  of gyro magnitude
+
+tBodyGyroJerkMag.mean    41    Mean of gyro jerk magnitude
+
+tBodyGyroJerkMag.std     42    Standard deviation  of gyro jerk magnitude
+
+fBodyAcc.mean.X          43    Mean of estimated body acceleration on X on frequency domain
+
+fBodyAcc.mean.Y          44    Mean of estimated body acceleration on Y on frequency domain
+
+fBodyAcc.mean.Z          45    Mean of estimated body acceleration on Z on frequency domain
+
+fBodyAcc.std.X           46    Standard deviation of estimated body acceleration on X on frequency domain
+
+fBodyAcc.std.Y           47    Standard deviation of estimated body acceleration on X on frequency domain
+
+fBodyAcc.std.Z           48    Standard deviation of estimated body acceleration on X on frequency domain
+
+fBodyAccJerk.mean.X      49    Mean of estimated body acceleration on X on frequency domain
+
+fBodyAccJerk.mean.Y      50    Mean of estimated body acceleration on Y on frequency domain
+
+fBodyAccJerk.mean.Z      51    Mean of estimated body acceleration on Z on frequency domain
+
+fBodyAccJerk.std.X       52    Standard deviation of estimated body acceleration on X on frequency domain
+
+fBodyAccJerk.std.Y       53    Standard deviation of estimated body acceleration on Y on frequency domain
+
+fBodyAccJerk.std.Z       54    Standard deviation of estimated body acceleration on Z on frequency domain
+
+fBodyGyro.mean.X         55    Mean of estimated body acceleration on Z on frequency domain
+
+fBodyGyro.mean.Y         56    Mean of estimated body acceleration on Z on frequency domain
+
+fBodyGyro.mean.Z         57    Mean of estimated body acceleration on Z on frequency domain
+
+fBodyGyro.std.X          58    Standard deviation of estimated body acceleration on X on frequency domain
+
+fBodyGyro.std.Y          59    Standard deviation of estimated body acceleration on X on frequency domain
+
+fBodyGyro.std.Z          60    Standard deviation of estimated body acceleration on X on frequency domain
+
+fBodyAccMag.mean         61    Mean of body acceleration magnitude on frequency domain
+
+fBodyAccMag.std          62    Standard deviation of body acceleration magnitude on frequency domain
+
+fBodyBodyAccJerkMag.mean  63    Mean of body acceleration magnitude on frequency domain
+
+fBodyBodyAccJerkMag.std   64    Standard deviation of body acceleration magnitude on frequency domain
+
+fBodyBodyGyroMag.mean     65    Mean of body acceleration magnitude on frequency domain
+
+fBodyBodyGyroMag.std      66    Standard deviation of body acceleration magnitude on frequency domain
+
+fBodyBodyGyroJerkMag.mean 67    Mean of body acceleration magnitude on frequency domain
+
+fBodyBodyGyroJerkMag.std  68    Standard deviation of body acceleration magnitude on frequency domain
